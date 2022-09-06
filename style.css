@@ -1,0 +1,105 @@
+.nav{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 0 1em;
+    
+}
+
+.hola input#hello{
+    width: 300px;
+    height: 50px;
+    background: #2b303b;
+    border: none;
+    font-size: 10pt;
+    float: left;
+    color: #63717f;
+    padding-left: 45px;
+    border-radius: 5px;
+    margin-left: 20px; 
+}
+
+.img-fondo {
+    background-image:url("img/tibbers.jpg");
+    background-size: 100%;
+    padding: 23% 23% 5% 23%;
+    background-repeat: no-repeat ;
+}
+
+.img1 {
+    justify-content: flex-end;
+    height: 300px;
+    width: 550px;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+.img2 {
+    justify-content: flex-end;
+    height: 300px;
+    width: 550px;
+    margin-top: 0px;
+    margin-left: 20px; 
+}
+
+.img3 {
+    justify-content: flex-end;
+    height: 300px;
+    width: 550px;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+.img4 { 
+    justify-content: flex-end;
+    height: 300px;
+    width: 550px;
+    margin-top: 0px;
+    margin-left: 20px;;
+}
+
+.ip {
+    justify-content: flex-end
+}
+
+#nav-one{
+        display: flex;
+        align-items: center;
+}
+.nav{
+    height: 100%;
+    width: 100%;
+}
+.active{
+    font-weight: bold;
+}
+
+select {
+    background-color: black;
+    color: white;
+}
+
+body {
+    margin: 0;
+    font-family: 'Mark Pro',Arial,sans-serif;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0%;
+    padding-top: 1.5%;
+    background-color: #000000;
+    padding-bottom: 1.5%;
+    overflow: hidden;
+}
+
+li {
+    text-decoration: none;
+    color: white;
+}
+
+li a {
+    list-style: none;
+    margin-left: 1em;
+}
